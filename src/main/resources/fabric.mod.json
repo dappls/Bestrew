@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"net.dappls.BestrewClient"
+		],
+		"fabric-datagen": [
+			"net.dappls.BestrewDataGenerator"
 		]
 	},
 	"mixins": [
